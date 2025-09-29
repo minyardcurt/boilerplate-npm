@@ -1,7 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "description": "A simple project demonstrating npm package.json usage",
-  "keywords": [ "freecodecamp,descriptive", "related", "words" ],
+  "keywords": [ "freecodecamp","descriptive", "related", "words" ],
   "author": "Curt Minyard",
   "dependencies": {
     "express": "^4.14.0"
